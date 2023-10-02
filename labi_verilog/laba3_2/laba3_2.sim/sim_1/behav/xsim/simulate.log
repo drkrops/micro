@@ -1,0 +1,15 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+
+Start test: 
+
+==========================
+CLICK THE BUTTON 'Run All'
+==========================
+
+$stop called at time : 0 fs : File "C:/Users/pwnies/Downloads/tb_data_mem.sv" Line 57
+Number of errors:           0
+
+data_mem SUCCESS!!!
+
+$finish called at time : 829910 ns : File "C:/Users/pwnies/Downloads/tb_data_mem.sv" Line 128

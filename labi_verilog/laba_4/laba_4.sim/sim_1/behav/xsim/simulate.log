@@ -1,0 +1,15 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+
+Start test: 
+
+==========================
+CLICK THE BUTTON 'Run All'
+==========================
+
+$stop called at time : 0 fs : File "C:/Users/pwnies/Downloads/tb_cybercobra.sv" Line 40
+
+ The test is over 
+ See the internal signals of the CYBERcobra on the waveform 
+
+$finish called at time : 10010 ns : File "C:/Users/pwnies/Downloads/tb_cybercobra.sv" Line 49

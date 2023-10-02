@@ -1,0 +1,9 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+C:/Users/pwnies/Downloads/riscv_pkg.sv,1694332886,systemVerilog,C:/Users/pwnies/laba_5/laba_5.srcs/sources_1/new/alu_opcodes_pkg.sv;C:/Users/pwnies/laba_5/laba_5.srcs/sources_1/new/decoder_riscv.sv,C:/Users/pwnies/laba_5/laba_5.srcs/sources_1/new/decoder_riscv.sv,,riscv_pkg,,,,,,,,
+C:/Users/pwnies/Downloads/tb_decoder_riscv.sv,1694354098,systemVerilog,,,,decoder_riscv_ref;tb_decoder_riscv,,,,,,,,
+C:/Users/pwnies/laba_5/laba_5.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+C:/Users/pwnies/laba_5/laba_5.srcs/sources_1/new/alu_opcodes_pkg.sv,1694333170,systemVerilog,C:/Users/pwnies/Downloads/riscv_pkg.sv;C:/Users/pwnies/Downloads/tb_decoder_riscv.sv;C:/Users/pwnies/laba_5/laba_5.srcs/sources_1/new/decoder_riscv.sv,C:/Users/pwnies/Downloads/riscv_pkg.sv,,$unit_alu_opcodes_pkg_sv;alu_opcodes_pkg,,,,,,,,
+C:/Users/pwnies/laba_5/laba_5.srcs/sources_1/new/decoder_riscv.sv,1694373680,systemVerilog,,C:/Users/pwnies/Downloads/tb_decoder_riscv.sv,,decoder_riscv,,,,,,,,

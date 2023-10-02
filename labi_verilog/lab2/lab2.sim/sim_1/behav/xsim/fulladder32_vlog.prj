@@ -1,0 +1,28 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../lab2.srcs/sources_1/new/alu_opcodes_pkg.sv" \
+"../../../../lab2.srcs/sources_1/new/EQ.sv" \
+"../../../../lab2.srcs/sources_1/new/GES.sv" \
+"../../../../lab2.srcs/sources_1/new/GEU.sv" \
+"../../../../lab2.srcs/sources_1/new/LTS.sv" \
+"../../../../lab2.srcs/sources_1/new/LTU.sv" \
+"../../../../lab2.srcs/sources_1/new/NE.sv" \
+"../../../../lab2.srcs/sources_1/new/SLL.sv" \
+"../../../../lab2.srcs/sources_1/new/SRA.sv" \
+"../../../../lab2.srcs/sources_1/new/SRL.sv" \
+"../../../../lab2.srcs/sources_1/new/andmodule.sv" \
+"../../../../../lab1/lab1.srcs/sources_1/new/fulladder.sv" \
+"../../../../../lab1/lab1.srcs/sources_1/new/fulladder32.sv" \
+"../../../../lab2.srcs/sources_1/new/minusmodule.sv" \
+"../../../../lab2.srcs/sources_1/new/oormodule.sv" \
+"../../../../../lab1/lab1.srcs/sources_1/new/quadadder.sv" \
+"../../../../lab2.srcs/sources_1/new/xor.sv" \
+"../../../../../Downloads/alu_opcodes_pkg.sv" \
+"../../../../lab2.srcs/sources_1/new/alu_riscv.sv" \
+"../../../../../Downloads/tb_miriscv_alu.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
