@@ -1,0 +1,16 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+
+Start test: 
+
+===============================================
+Add CYBERcobra signals to the waveform and then
+CLICK THE BUTTON 'Run All'
+===============================================
+
+$stop called at time : 0 fs : File "C:/Users/pwnies/Downloads/tb_cybercobra_ii.sv" Line 40
+
+ The test is over 
+ See the internal signals of the CYBERcobra on the waveform 
+
+$finish called at time : 10020 ns : File "C:/Users/pwnies/Downloads/tb_cybercobra_ii.sv" Line 49

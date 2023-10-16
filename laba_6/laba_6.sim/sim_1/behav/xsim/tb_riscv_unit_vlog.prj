@@ -1,0 +1,22 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../../laba_5/laba_5.srcs/sources_1/new/alu_opcodes_pkg.sv" \
+"../../../../../lab2/lab2.srcs/sources_1/new/alu_riscv.sv" \
+"../../../../../laba3_2/laba3_2.srcs/sources_1/new/data_mem.sv" \
+"../../../../../laba_5/laba_5.srcs/sources_1/new/riscv_pkg.sv" \
+"../../../../../laba_5/laba_5.srcs/sources_1/new/decoder_riscv.sv" \
+"../../../../../lab1/lab1.srcs/sources_1/new/fulladder.sv" \
+"../../../../../lab1/lab1.srcs/sources_1/new/fulladder32.sv" \
+"../../../../../laba3/laba3.srcs/sources_1/new/instr_mem.sv" \
+"../../../../laba_6.srcs/sources_1/new/pc_riscv.sv" \
+"../../../../../lab1/lab1.srcs/sources_1/new/quadadder.sv" \
+"../../../../../laba_3_3/laba_3_3.srcs/sources_1/new/rf_riscv.sv" \
+"../../../../laba_6.srcs/sources_1/new/riscv_core.sv" \
+"../../../../laba_6.srcs/sources_1/new/riscv_unit.sv" \
+"../../../../../Downloads/tb_riscv_unit.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

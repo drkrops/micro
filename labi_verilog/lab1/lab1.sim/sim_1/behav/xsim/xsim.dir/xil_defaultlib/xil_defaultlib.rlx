@@ -1,9 +1,0 @@
-0.6
-2019.1
-May 24 2019
-15:06:07
-C:/Users/pwnies/Downloads/tb_fulladder32.sv,1693916129,systemVerilog,,,,tb_fulladder32,,,,,,,,
-C:/Users/pwnies/lab1/lab1.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
-C:/Users/pwnies/lab1/lab1.srcs/sources_1/new/fulladder.sv,1693909292,systemVerilog,,C:/Users/pwnies/lab1/lab1.srcs/sources_1/new/fulladder32.sv,,fulladder,,,,,,,,
-C:/Users/pwnies/lab1/lab1.srcs/sources_1/new/fulladder32.sv,1693913835,systemVerilog,,C:/Users/pwnies/lab1/lab1.srcs/sources_1/new/quadadder.sv,,fulladder32,,,,,,,,
-C:/Users/pwnies/lab1/lab1.srcs/sources_1/new/quadadder.sv,1693912472,systemVerilog,,C:/Users/pwnies/Downloads/tb_fulladder32.sv,,quadadder,,,,,,,,
